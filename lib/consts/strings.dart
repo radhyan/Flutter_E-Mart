@@ -1,3 +1,3 @@
-const appname = "eMart";
+const appname = "YesDok";
 const appversion = "Version 1.0.0";
-const credits = "@Baaba Devs";
+const credits = "S.Ke(na)d";
